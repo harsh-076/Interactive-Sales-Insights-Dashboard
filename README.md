@@ -3,11 +3,11 @@
 
 Sales Insights Project
 
-Introduction
+## Introduction
 
 This project entails a detailed analysis of sales data for a hardware supplier company, utilizing Tableau to derive actionable insights. The objective is to evaluate sales performance, identify trends, and facilitate data-driven decisions to enhance business strategies.
 
-Problem Statement
+## Problem Statement
 
 The primary aim is to analyze sales data to address key business questions, including:
 
@@ -21,7 +21,7 @@ Who are the top customers contributing to sales?
 
 By exploring these questions, the project seeks to provide a comprehensive understanding of the sales landscape.
 
-Key Features
+## Key Features
 
 Sales Dashboard: An interactive visualization of sales metrics, offering a comprehensive view of performance indicators.
 
@@ -33,7 +33,7 @@ Customer Analysis: Identification of top customers, purchasing patterns, and cus
 
 Interactive Insights: The dashboard is fully interactive, allowing users to explore data year by year and month by month for granular insights.
 
-Key Performance Indicators (KPIs)
+## Key Performance Indicators (KPIs)
 
 The dashboard focuses on the following KPIs to measure sales performance:
 
@@ -47,11 +47,11 @@ Top-Selling Products: Products contributing the most to revenue, guiding invento
 
 Regional Sales Distribution: Sales performance segmented by region, identifying geographical strengths and opportunities.
 
-Dataset
+## Dataset
 
 The analysis utilizes a comprehensive sales dataset encompassing transactions, products, customers, and regional information. Data preprocessing steps include cleaning, handling missing values, and ensuring data consistency to maintain analytical accuracy.
 
-Tools and Technologies
+## Tools and Technologies
 
 Tableau: For data visualization and dashboard creation, enabling interactive and insightful representations of sales data.
 
