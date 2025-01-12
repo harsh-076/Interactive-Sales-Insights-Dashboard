@@ -1,7 +1,7 @@
 # Interactive-Sales-Insights-Dashboard
 
 
-Sales Insights Project
+
 
 ## Introduction
 
